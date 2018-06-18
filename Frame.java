@@ -12,7 +12,7 @@ public class Frame extends JFrame {
 
 	public Frame() {
 
-		super("Differential Evolution");
+		super("Bees Algorithm");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		int window_width = 1000;
